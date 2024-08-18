@@ -5,12 +5,12 @@ Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı 2 saatlik portfol
 
 <h1>Kullanılan Teknolojiler</h1>
 <ul>
-  <li>Backend C# : Backend tarafında c# dili kullanılmıştır.</li>
-  <li>MSSQL : Veritabanı olarak Microsoft SQL Server kullanılmıştır.</li>
-  <li>Migration : Code first Yaklaşımı </li>
-  <li>Frontend Html : Sayfa yapılandırmaları için HTML kullanılmıştır.</li>
-  <li>Css : Stillerin belirlenmesi için CSS kullanılmıştır. </li>
-  <li>Bootstrap : Hızlı ve etkileşimli bir şekilde arayüz tasarımı için bootstrap kullanılmıştır.</li>
+  <li>Backend : Backend tarafında c# dili kullanılmıştır.</li>
+  <li>Veritabanı : Microsoft SQL Server kullanılmıştır.</li>
+  <li>Frontend : Sayfa yapılandırmaları için HTML kullanılmıştır.</li>
+  <li>Stiller : CSS kullanılmıştır. </li>
+  <li>Migration Code first Yaklaşımı </li>
+  <li>Hızlı ve etkileşimli bir şekilde arayüz tasarımı için bootstrap kullanılmıştır.</li>
 </ul>
 
 <h1>Öğrendiklerim</h1>
