@@ -1,24 +1,30 @@
-Dinamik Portfolyo Web Sitesi
-Bu projeyi, Udemy üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı 2 saatlik portfolyo projesidir. Porfolyo egitimi olarak geliştirilmiş ve code first(migration) yaklaşımı temel alan projedir. Proje içeriğinde çeşitli yetenek yönetimini saglayan temel CRUD(Create, Read, Update, Delete) kullanılmaktadır.
+<h1>Dinamik Portfolyo Web Sitesi</h1>
+<p>
+Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı 2 saatlik portfolyo projesidir. Porfolyo egitimi olarak geliştirilmiş ve code first(migration) yaklaşımı temel alan projedir. Proje içeriğinde çeşitli yetenek yönetimini saglayan temel CRUD(Create, Read, Update, Delete) kullanılmaktadır.</p>
 
 
-Kullanılan Teknolojiler 
-Backend C# : Backend tarafında c# dili kullanılmıştır. 
-MSSQL : Veritabanı olarak Microsoft SQL Server kullanılmıştır.
-Migration : Code first Yaklaşımı 
-Frontend Html : Sayfa yapılandırmaları için HTML kullanılmıştır.
-Css : Stillerin belirlenmesi için CSS kullanılmıştır. 
-Bootstrap : Hızlı ve etkileşimli bir şekilde arayüz tasarımı için bootstrap kullanılmıştır.
+<h1>Kullanılan Teknolojiler</h1>
+<ul>
+  <li>Backend C# : Backend tarafında c# dili kullanılmıştır.</li>
+  <li>MSSQL : Veritabanı olarak Microsoft SQL Server kullanılmıştır.</li>
+  <li>Migration : Code first Yaklaşımı </li>
+  <li>Frontend Html : Sayfa yapılandırmaları için HTML kullanılmıştır.</li>
+  <li>Css : Stillerin belirlenmesi için CSS kullanılmıştır. </li>
+  <li>Bootstrap : Hızlı ve etkileşimli bir şekilde arayüz tasarımı için bootstrap kullanılmıştır.</li>
+</ul>
 
-Öğrendiklerim
+<h1>Öğrendiklerim</h1>
 Bu proje sayesinde aşağıdaki konularda bilgi ve deneyim kazandım:
+<ul>
+  <li>Asp.Net Core kullanarak web uygulamaları geliştirme</li>
+  <li>SQL veritabanı entegrasyonu ve yönetimi</li>
+  <li>HTML, CSS, Bootstrap ve JavaScript ile kullanıcı arayüzü tasarımı</li>
+  <li>MVC (Model-View-Controller) mimarisi</li>
+  <li>View Componentler ile modüler yapı oluşturma</li>
+  <li>Code First yaklaşımı ve Migration işlemleri</li>
+</ul>
 
-Asp.Net Core kullanarak web uygulamaları geliştirme
-SQL veritabanı entegrasyonu ve yönetimi
-HTML, CSS, Bootstrap ve JavaScript ile kullanıcı arayüzü tasarımı
-MVC (Model-View-Controller) mimarisi
-View Componentler ile modüler yapı oluşturma
-Code First yaklaşımı ve Migration işlemleri
+
 ![Ekran görüntüsü 2024-08-18 131628](https://github.com/user-attachments/assets/f11478c6-0b60-4036-966c-bfb00280db1d)
 ![Ekran görüntüsü 2024-08-18 131648](https://github.com/user-attachments/assets/cd067abd-af29-4b30-b214-b3c47ac7a0bd)
 ![Ekran görüntüsü 2024-08-18 131551](https://github.com/user-attachments/assets/e54d0eb1-f667-45f9-9bd4-77d06287000b)
